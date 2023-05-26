@@ -2,8 +2,8 @@ import { Card,Typography,CardContent,CardMedia } from "@mui/material"
 // import {chickCircle} from '@mui/icons-material'
 import {Link }from "react-router-dom"
 const Videocard = ({video}) => {
-    console.log(video)
-    console.log(video.snippet.thumbnails.high.url)
+    // console.log(video)
+    // console.log(video.snippet.thumbnails.high.url)
   return (
     <div>
         

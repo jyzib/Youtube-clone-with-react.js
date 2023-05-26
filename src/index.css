@@ -44,6 +44,14 @@ a {
   outline:none;
   width:350px;
 }
+.paginaation{
+  background-color: rgb(255, 255, 255);
+  border: none;
+  margin: 10px;
+  width: 30px;
+  border-radius: 20px;
+  padding: 5px;
+}
 
 .category-btn{
   font-weight: bold !important;
